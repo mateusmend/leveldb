@@ -1,0 +1,16 @@
+{
+  "name": "appdblevel",
+  "version": "0.0.1",
+  "description": "Aplicação criada para realizar um crud no db level",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mateus Mendonça da Silva",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "level": "^1.7.0"
+  }
+}
