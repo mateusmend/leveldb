@@ -27,7 +27,7 @@ app.get("/api", (req, res) => {
     })
 });
 
-app.listen(7475, x => {
+app.listen(8080, x => {
     console.log("Aplicação em execução !");
 })
 
